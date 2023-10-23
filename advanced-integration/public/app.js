@@ -142,3 +142,4 @@ if (paypal.HostedFields.isEligible()) {
   // Hides card fields if the merchant isn't eligible
   document.querySelector("#card-form").style = "display: none";
 }
+d454edfee20b6ef4c3241e2319fbac71e8d4f47a
